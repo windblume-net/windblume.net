@@ -1,0 +1,38 @@
+html {
+	background-color: #202020;
+	width: 98%;
+	min-height: 100%;
+	font-family: 'Philosopher', sans-serif;
+}
+
+.content {
+	text-align: center;
+	color: white;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+hr {
+	width: 65%;
+	margin: 1rem auto;
+}
+hr.large {
+	width: 92.5%;
+}
+
+a,
+a:link,
+a:visited {
+	color: white;
+}
+a:hover {
+	color: #4b989e;
+}
+
+.links a {
+	display: block;
+	margin: 0.5rem auto;
+}
