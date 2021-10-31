@@ -39,3 +39,7 @@ a:hover {
 	display: block;
 	margin: 0.5rem auto;
 }
+
+a.special {
+	text-decoration: none;
+}
