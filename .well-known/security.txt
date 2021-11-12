@@ -1,0 +1,25 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: mailto:sysadmin@windblume.net
+Expires: 2022-11-30T12:59:00.000Z
+Encryption: https://nick.tay.blue/static/key.asc
+Preferred-Languages: en
+Canonical: https://www.windblume.net/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEdug+pbuLP9B92SSTUV6B1JjMgfsFAmGOJAsACgkQUV6B1JjM
+gftPdA//duv4Ebwoag4wmQOqIncDYMLXkKgHeW+1tDBfXdRUyLLfk2Ah+A9UCYmO
+KIsoegf1ICRakLFZ9fsNpCex0EKPktJ7qbx8zfbjetkwZuRwPPFplWfvBX/OGnYL
+fNM+7AlHpy/QJdi9bAw1wd5XNoZhD3+2mTvRD/xF69d7bsS1kwQdgUDcNMBThHq2
+Ya1d42/3tzAmp0YtAoVttOjIggbx8ZgsE+cc56A0EoUiNo6zSTUvMxrBHOU2sFqE
+k1zGKpKz/cR6FQaXWL5OYCi91CQSFD/Eji7gr3wWumynM4mxP8tjwX8zgOmQvyos
+a16l1Idwbpl5i91aa68OFIQOvxvlZ15T5qey/udIrIYPm2sFEBEs4dCoUyS5B0rL
+cwnw3qdw1/J6zw+PPNjC1D9gBWuLdg+DdJo7fMMAF+FR90CNLRuwqsU7DivObgNV
++LPvxQGID8DZFF9qtsr9eaEj6/VUoaI7gI7Odbeb3q8kVTbk6vVhd8GphMiM5geM
+4JPNF9NhT9AK8PoBp7KdBh3DUpThroSoTE/SwMWAcEqAreuJ4zOHlLdMmk+YFY6c
+C0Vam0bnTT4X96EN36mRAv2rFpMTbkax6Ns/paxpnNnAY+147iLmxAB68SJmJ8E9
+ugT0cYaf8wMMe69tY8TULg2v1+FQDXE/V1mEUJmk1gYD6wIpxIQ=
+=oj+l
+-----END PGP SIGNATURE-----
+
